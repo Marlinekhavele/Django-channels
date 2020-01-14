@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/beast/djangoChannels/.env/bin/python3.7",
+    "python.formatting.provider": "black",
+    "git.ignoreLimitWarning": true
+}
